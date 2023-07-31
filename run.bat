@@ -1,5 +1,5 @@
 
 
 
-bin/plade.exe sandbox
+call "bin/plade.exe" sandbox
 

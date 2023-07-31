@@ -1,0 +1,7 @@
+
+[submodule "vendor/odin-lua"]
+	path = vendor/odin-lua
+	url = https://github.com/DragosPopse/odin-lua.git
+[submodule "vendor/mani"]
+	path = vendor/mani
+	url = https://github.com/DragosPopse/mani.git
