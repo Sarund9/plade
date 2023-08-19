@@ -5,8 +5,8 @@ import "core:os"
 import fpath "core:path/filepath"
 import "core:log"
 
-import lua "shared:odin-lua/"
-import "shared:mani"
+import lua "shared:luaL"
+import "mani:mani"
 
 
 ProgramArgs :: struct {
@@ -49,10 +49,6 @@ main :: proc() {
     d := lua.newstate()
 
 }
-
-
-
-
 
 
 
